@@ -24,7 +24,7 @@ Team Dirty Bytes(IIT Guwahati) Microsoft Codefundo 2019 repository
 * Voting Process : The voters can give a preference of the candidates rather than choosing one necessarily.Each individual can change his vote fduring the entire duration of the elections and can see live vote count(results)
  SMS Integration for people with no access to App/Internet.They will vote via SMS and recieve all the live updates through SMS periodically 
  
- ## Why Blockchain ? How are we using it ?
+ ## How are we using Blockchain ?
  
 * Information is stored across network of computers and is more secure because transactions are agreed and approved before they are recorded.This eliminates fake votes
  * Low cost and IMproved efficeincy and speed.Benefits everyone involved
